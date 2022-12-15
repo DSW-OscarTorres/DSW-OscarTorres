@@ -1,0 +1,26 @@
+
+/* selector id */
+#titulo1{
+    background-color: blue;
+    color: black;
+    text-align: center;
+}
+/* selector de clase */
+.titulo2 {
+    background-color: blueviolet;
+    /* text-align: center; */
+    height: 300px;
+    width: 300px;
+
+    }
+.centradito{
+    text-align: center;
+    /* margen */
+    margin: 10px;
+    /* borde interno */
+    padding: 10px; 
+}
+p{
+    /* color: red;
+    font-size: 20px; */ 
+}
